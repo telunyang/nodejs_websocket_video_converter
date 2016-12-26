@@ -27,4 +27,7 @@ Youtube Video Downloader, Splitter and Converter (ubuntu, nodejs, socketio, ffmp
 [Youtube Video Downloader, Splitter and Converter](https://www.youtube.com/watch?v=2whO3-DBXkw)
 
 # Note
-This project help us to download videos, split videos, make a snapshot and convert to mp3.
+This project helps us to download videos, split videos, make a snapshot and convert to mp3.
+
+# My LinkedIn
+[link](https://tw.linkedin.com/in/telunyang)
