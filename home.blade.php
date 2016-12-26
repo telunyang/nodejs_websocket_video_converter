@@ -230,7 +230,7 @@ $(document).ready(function(){
 		{
 			$.ajax({
 				method: 'POST',
-				url: '/admin/youtube/deleteFile',
+				url: '/youtube/deleteFile',
 				data: {
 					path: path
 				},
