@@ -3,7 +3,7 @@ Youtube Video Downloader, Splitter and Converter (ubuntu, nodejs, socketio, ffmp
 
 # Prerequisite 
 - youtube-dl:
-  - You need to download [youtube-dl](https://rg3.github.io/youtube-dl/) and modify it with executable authority.
+  - You need to download [youtube-dl](https://rg3.github.io/youtube-dl/) and modify it with executable access.
   - Supported sites of youtube-dl: [link](https://rg3.github.io/youtube-dl/supportedsites.html)
   - Please refer to youtube-dl README: [youtube-dl README](https://github.com/rg3/youtube-dl/blob/master/README.md#readme)
 - Other: 
